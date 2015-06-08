@@ -1,4 +1,8 @@
 jajajaj
+<<<<<<< HEAD
 
 
 dodac
+=======
+Rimcim cim ci daabym Ci
+>>>>>>> origin/master
