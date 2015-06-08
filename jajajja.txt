@@ -1,3 +1,13 @@
 jajajaj
+<<<<<<< HEAD
 Rimcim cim ci da³abym Ci
 Siedzia³a na lipie, wo³a³a Filipie
+=======
+<<<<<<< HEAD
+
+
+dodac
+=======
+Rimcim cim ci daabym Ci
+>>>>>>> origin/master
+>>>>>>> origin/master
